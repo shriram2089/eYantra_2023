@@ -72,5 +72,5 @@ Stage 2 requires integration of perception, navigation, and task planning:
 
 ---
 
-## 📦 Repository Structure (Suggested)
+
 
